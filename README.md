@@ -2,7 +2,11 @@
 
 ## Animation
 
-<img width="1280" height="720" alt="Jellyfish1" src="https://github.com/user-attachments/assets/6afe32a5-652e-4829-9d34-4429869bd38c" />
+
+
+
+<img width="1280" height="720" alt="Jellyfish1" src="https://github.com/user-attachments/assets/97c5df76-3a8f-4600-813f-d05755ecfed7
+" />
 
 ## Renders
 
