@@ -5,8 +5,7 @@
 
 
 
-<img width="1280" height="720" alt="Jellyfish1" src="https://github.com/user-attachments/assets/97c5df76-3a8f-4600-813f-d05755ecfed7
-" />
+<img width="1280" height="720" alt="Jellyfish1" src="https://github.com/user-attachments/assets/97c5df76-3a8f-4600-813f-d05755ecfed7" />
 
 ## Renders
 
